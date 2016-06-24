@@ -1,0 +1,44 @@
+.header{
+	background-color:whitesmoke;
+	border-width: 1px;
+	border-color: #ddd;
+}
+
+.body{
+	align-content: center;
+	font-family:Helvetica;
+	color:#333;
+	font-size:16px;
+	line-height:1.6px;
+	text-align: center;
+}
+
+div {
+	margin: 10px; 
+	text-align: center;
+	
+}
+h1{
+	align-content: center;
+	font-family:Helvetica;
+	color:#333;
+	font-size:16px;
+	line-height:1.6px;
+	text-align: center;
+
+}
+
+.square{
+	margin:5px 5px 5px 5px;
+	vertical-align: top;
+	padding: 1px 1px 1px 1px;
+	display: inline-block;   
+	background-color: whitesmoke;
+	text-align: center;
+	border-radius: 10%
+}
+
+img{
+	width: 100px;
+	height: 80px;
+}
